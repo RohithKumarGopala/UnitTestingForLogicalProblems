@@ -1,0 +1,15 @@
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\bin\Debug\net6.0\UnitTestingOf LogicalProgram.exe
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\bin\Debug\net6.0\UnitTestingOf LogicalProgram.deps.json
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\bin\Debug\net6.0\UnitTestingOf LogicalProgram.runtimeconfig.json
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\bin\Debug\net6.0\UnitTestingOf LogicalProgram.dll
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\bin\Debug\net6.0\UnitTestingOf LogicalProgram.pdb
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\UnitTestingOf LogicalProgram.csproj.AssemblyReference.cache
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\UnitTestingOf LogicalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\UnitTestingOf LogicalProgram.AssemblyInfoInputs.cache
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\UnitTestingOf LogicalProgram.AssemblyInfo.cs
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\UnitTestingOf LogicalProgram.csproj.CoreCompileInputs.cache
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\UnitTestingOf LogicalProgram.dll
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\refint\UnitTestingOf LogicalProgram.dll
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\UnitTestingOf LogicalProgram.pdb
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\UnitTestingOf LogicalProgram.genruntimeconfig.cache
+C:\Users\gopal\source\repos\UnitTestingOfLogicalPrograms\UnitTestingOf LogicalProgram\obj\Debug\net6.0\ref\UnitTestingOf LogicalProgram.dll
